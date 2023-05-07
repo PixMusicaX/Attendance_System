@@ -13,3 +13,5 @@ Python packages required:
 | #6  | easygui         |
 
 If you are looking for partially working modules, look in the [backup](./backup/) folder
+
+### Note: MongoDB src should be inputted in the code by yourself, make the database by yourself. (see line 10 in ver3)
