@@ -15,3 +15,5 @@ A very simple attendance using Python and a Real Time database System like Mongo
 If you are looking for partially working modules, look in the [backup](./backup/) folder
 
 ### Note: MongoDB src should be inputted in the code by yourself, make the database by yourself. (see line 10 in ver3)
+
+"meth" is a fun side modification ; )
