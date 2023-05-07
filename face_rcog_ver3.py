@@ -7,7 +7,7 @@ import pyaudio as pyaudio
 import easygui
 
 # define the connection string
-MONGO_CONNECTION_STRING = "mongodb+srv://priyanshurouth:College@betteriemcrp.3joocjw.mongodb.net/?retryWrites=true&w=majority"
+MONGO_CONNECTION_STRING = "mongodb+srv://"
 # create a MongoClient object and pass the connection string
 client = MongoClient(MONGO_CONNECTION_STRING)
 
