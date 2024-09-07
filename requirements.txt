@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+pymongo==4.5.0
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+PyAudio==0.2.13
+easygui==0.98.3
+python-dotenv
